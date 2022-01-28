@@ -1,0 +1,15 @@
+article{
+    width: 370px;
+    display: inline-block;
+    background-color: #eee;
+    color: #000;
+    margin: 40px 0 0;
+}
+
+article img{
+    width: inherit;
+}
+
+article p{
+    margin: 10px 15px;
+}

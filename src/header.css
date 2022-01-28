@@ -1,0 +1,31 @@
+html{
+    box-sizing: content-box;
+}
+
+html * {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #000;
+    color: #fff;
+}
+
+header input{
+    padding: 10px 20px;
+    border: solid 1px #999;
+    outline: none;
+    width: 100%;
+    display: block;
+    background-color: #666;
+    color: inherit;
+    font-size: 30px;
+    text-align: center;
+}
+
+header input::placeholder{
+    color: inherit;
+    opacity: 0.5;
+}
+
+
