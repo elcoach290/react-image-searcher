@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/elcoach290/react-image-searcher/static/css/main.cd47bcd7.css",
-    "main.js": "/elcoach290/react-image-searcher/static/js/main.07f13cc4.js",
-    "static/js/787.7366a129.chunk.js": "/elcoach290/react-image-searcher/static/js/787.7366a129.chunk.js",
-    "index.html": "/elcoach290/react-image-searcher/index.html",
-    "main.cd47bcd7.css.map": "/elcoach290/react-image-searcher/static/css/main.cd47bcd7.css.map",
-    "main.07f13cc4.js.map": "/elcoach290/react-image-searcher/static/js/main.07f13cc4.js.map",
-    "787.7366a129.chunk.js.map": "/elcoach290/react-image-searcher/static/js/787.7366a129.chunk.js.map"
+    "main.css": "/react-image-searcher/static/css/main.cd47bcd7.css",
+    "main.js": "/react-image-searcher/static/js/main.12e8dd94.js",
+    "static/js/787.7366a129.chunk.js": "/react-image-searcher/static/js/787.7366a129.chunk.js",
+    "index.html": "/react-image-searcher/index.html",
+    "main.cd47bcd7.css.map": "/react-image-searcher/static/css/main.cd47bcd7.css.map",
+    "main.12e8dd94.js.map": "/react-image-searcher/static/js/main.12e8dd94.js.map",
+    "787.7366a129.chunk.js.map": "/react-image-searcher/static/js/787.7366a129.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd47bcd7.css",
-    "static/js/main.07f13cc4.js"
+    "static/js/main.12e8dd94.js"
   ]
 }
